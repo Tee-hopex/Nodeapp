@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A node project to practice node.js",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.7"
+  }
+}
